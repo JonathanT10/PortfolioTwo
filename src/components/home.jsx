@@ -13,6 +13,8 @@ class Home extends Component{
         return(
             <div>
                 {Navbar}
+                <h1>Freelance Developer</h1>
+                <h2>Jonathan Terrell</h2>
             </div>
         )
     }

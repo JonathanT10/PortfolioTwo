@@ -4,6 +4,7 @@ import {Switch, Route, BrowserRouter } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from './store';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Home from '../src/components/home'
 
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
     <div>
       <BrowserRouter>
       <Switch>
-        <Route exact path="/" component={Login} />
+        <Route exact path="/" component={Home} />
         
       </Switch>
       </BrowserRouter>
