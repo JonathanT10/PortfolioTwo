@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Navbar from './navBar/navBar';
+
 
 class Home extends Component{
     constructor(props){
@@ -12,7 +12,6 @@ class Home extends Component{
     render() {
         return(
             <div>
-                {Navbar}
                 <h1>Freelance Developer</h1>
                 <h2>Jonathan Terrell</h2>
             </div>

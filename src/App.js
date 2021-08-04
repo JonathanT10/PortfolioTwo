@@ -5,6 +5,7 @@ import { Provider } from 'react-redux';
 import store from './store';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from '../src/components/home'
+import Navbar from './components/navBar/navBar';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
     <Provider store={store}>
     <div>
       <BrowserRouter>
+      <Navbar />
       <Switch>
         <Route exact path="/" component={Home} />
         
