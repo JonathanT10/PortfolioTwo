@@ -6,6 +6,7 @@ import store from './store';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from '../src/components/home'
 import Navbar from './components/navBar/navBar';
+import Projects from './components/projects';
 
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route exact path="/" component={Home} />
-        
+        <Route exact path="/projects" component={Projects} />
       </Switch>
       </BrowserRouter>
     </div>

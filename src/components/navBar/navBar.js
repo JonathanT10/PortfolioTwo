@@ -13,10 +13,12 @@ const Navbar = () => {
         <>
         <Nav>
             <Bars />
-
             <NavMenu>
-                <NavLink to='/home' activeStyle>
+                <NavLink to='/' activeStyle>
                     Home
+                </NavLink>
+                <NavLink to='/projects' activeStyle>
+                    Projects
                 </NavLink>
             </NavMenu>
         </Nav>

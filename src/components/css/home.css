@@ -1,0 +1,26 @@
+.main{
+    background-color: #F0F7EE;
+    border-top-style:inset;
+    border-top-width: 10%;
+    border-top-color: #5D737E;
+}
+
+h1{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+h2{
+    margin-top: 1%;
+    margin-left:5%;
+}
+
+p{
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-right: 10%;
+    padding-bottom: 2%;
+    text-align: center;
+    border-bottom-color: #5D737E;
+    border-bottom-style: inset;
+}
