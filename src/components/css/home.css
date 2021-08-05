@@ -24,3 +24,20 @@ p{
     border-bottom-color: #5D737E;
     border-bottom-style: inset;
 }
+
+.Dwig{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 85%;
+    border-style:groove;
+}
+
+.behind{
+    background-color: #F0F7EE;
+}
+
+.foot{
+    background-color: #87BBA2;
+    margin-bottom: auto;
+}
