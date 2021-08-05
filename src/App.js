@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from '../src/components/home'
 import Navbar from './components/navBar/navBar';
 import Projects from './components/projects';
+import Footer from './components/footer/footer';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route exact path="/projects" component={Projects} />
       </Switch>
+      <Footer />
       </BrowserRouter>
     </div>
     </Provider>
