@@ -27,6 +27,7 @@ p{
 
 .Dwig{
     display: block;
+    margin-top: 4%;
     margin-left: auto;
     margin-right: auto;
     opacity: 85%;
@@ -41,3 +42,13 @@ p{
     background-color: #87BBA2;
     margin-bottom: auto;
 }
+
+.opener{
+        margin-left: 22%;
+        margin-top: 6%;
+        margin-right: 22%;
+        padding-bottom: 2%;
+        text-align: center;
+        border-bottom-color: #5D737E;
+        border-bottom-style: inset;
+    }

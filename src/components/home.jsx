@@ -17,7 +17,7 @@ class Home extends Component{
                 <div className="main">
                     <h1>Freelance Developer</h1>
                     <h2>Jonathan Terrell</h2>
-                    <p>My name is Jonathan, I am a born and raised Texan, and US Army Veteran. I live just outside Dallas Texas, in a small town named Forney, with my wife and daughter. For the past seven years I have been working in Information Technology. I have had various roles from Telecommunications Engineer, Systems Engineer, and IT Coordinator. Some of these roles have provided the great opportunity of working with international teams, and I have benefited greatly from this experience. Complex problems are where I find, great enthusiasm and focus. In my free time I enjoy woodworking, cooking, and sports.</p>
+                    <p className="opener">I am passionate about creating things, and programing gives you the ability to create some amazing things. The challenge of getting an idea out of your head and into reality is demanding, but when you crack those difficult issues that arise, it is exhilarating.</p>
                 </div>
                 <img className="Dwig" src = {Dwig} height="350" width="40%" alt="The American Flag"></img>
             </div>
