@@ -52,3 +52,13 @@ p{
         border-bottom-color: #5D737E;
         border-bottom-style: inset;
     }
+
+
+    .Code{
+        display: block;
+        margin-top: 4%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 5px;
+        opacity: 28%;
+    }
