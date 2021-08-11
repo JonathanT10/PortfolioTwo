@@ -1,14 +1,13 @@
 import React from 'react';
 import '../css/home.css'
+import LI from '../footer/LI-In-Bug.jpg'
 
 const Footer = () => {
     return(
         <div className="foot">
-            <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-            <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jonathan-terrell" data-version="v1">
-            <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-terrell?trk=profile-badge">Jonathan Terrell</a>
-            </div>
-              
+            <a href="https://www.linkedin.com/in/jonathan-terrell">
+         <img className="Linked" src = {LI} height="35" width="40" alt="Linked In Logo"></img>
+         </a> 
         </div>
     )
 }
