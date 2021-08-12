@@ -108,8 +108,9 @@ p{
     }
 
     .container{
-        margin-left: 20%;
+        margin-left: 15%;
         margin-top: 3%;
+        margin-right: 10%;
         padding-bottom: 1%;
     }
 
@@ -117,7 +118,7 @@ p{
         border-color: #5D737E;
         border-style: outset;
         border-width: 2px;
-        margin-right: 10%;
+        margin-right: 5%;
     }
 
 
@@ -144,5 +145,8 @@ p{
     .projectpic{
         margin-right: auto;
         margin-left: auto;
-        padding-top: 4px;
+        margin-top: 6px;
+        /* padding-top: 4px; */
+        border-style:ridge;
+        
     }
