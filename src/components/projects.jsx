@@ -34,7 +34,7 @@ class Projects extends Component{
                                 <div className="card-body">
                                      <h4>My Trail</h4>
                                      <p className="projectp">Description of project</p>
-                                     <a href="https://github.com/JonathanT10/theFoundingMarketplacefront" target="blank" className="btn">Go to Repository</a>
+                                     <a href="https://github.com/JonathanT10/My_Trail_Backend" target="blank" className="btn">Go to Repository</a>
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@ class Projects extends Component{
                                 <div className="card-body">
                                      <h4>Clone Tube</h4>
                                      <p className="projectp">Description of project</p>
-                                     <a href="https://github.com/JonathanT10/theFoundingMarketplacefront" target="blank" className="btn">Go to Repository</a>
+                                     <a href="https://github.com/JonathanT10/clonetube_frontend" target="blank" className="btn">Go to Repository</a>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ class Projects extends Component{
                                 <div className="card-body">
                                      <h4>RPG Hercules Quest</h4>
                                      <p className="projectp">Hercules Quest is a game with three quests. You battle three monsters with different attacks, and can choose the heros attack.</p>
-                                     <a href="https://github.com/JonathanT10/theFoundingMarketplacefront" target="blank" className="btn">Go to Repository</a>
+                                     <a href="https://github.com/JonathanT10/RPG-Hercules-Quest" target="blank" className="btn">Go to Repository</a>
                                 </div>
                             </div>
                         </div>

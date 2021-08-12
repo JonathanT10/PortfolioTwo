@@ -21,7 +21,7 @@ h2{
 h4{
     border-bottom-style: double;
     border-bottom-width: 2px;
-    border-bottom-color:black;
+    border-bottom-color:black
 }
 
 p{
@@ -110,7 +110,7 @@ p{
     .container{
         margin-left: 20%;
         margin-top: 3%;
-        padding-bottom: 1%;
+        margin-bottom: 1%;
     }
 
     .card{
