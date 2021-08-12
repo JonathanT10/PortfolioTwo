@@ -17,6 +17,13 @@ h2{
     font-size: 1.7rem;
 }
 
+
+h4{
+    border-bottom-style: double;
+    border-bottom-width: 2px;
+    border-bottom-color:black;
+}
+
 p{
     margin-left: 5%;
     margin-top: 2%;
@@ -103,11 +110,38 @@ p{
     .container{
         margin-left: 20%;
         margin-top: 3%;
+        padding-bottom: 1%;
     }
 
     .card{
         border-color: #5D737E;
         border-style: outset;
-        border-width: 5px;
+        border-width: 2px;
         margin-right: 10%;
+    }
+
+
+    .card{
+        background-color: #FFF07C;
+    }
+
+
+    .btn{
+        background-color: #87BBA2;
+        border-style: groove;
+        border-width: 2px;
+        border-color: #5D737E;
+    }
+
+
+    .projectp{
+        text-align: left;
+        border-style: none;
+        font-size: 1rem;
+    }
+
+
+    .projectpic{
+        margin-right: auto;
+        margin-left: auto;
     }
