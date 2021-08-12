@@ -23,6 +23,9 @@ const Navbar = () => {
                 <NavLink to='/projects' activeStyle>
                     Projects
                 </NavLink>
+                <NavLink to='/contact' activeStyle>
+                    Contact
+                </NavLink>
             </NavMenu>
         </Nav>
         </>

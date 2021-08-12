@@ -9,6 +9,7 @@ import Navbar from './components/navBar/navBar';
 import Projects from './components/projects';
 import Footer from './components/footer/footer';
 import About from './components/about';
+import Contact from './components/contact';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/about" component={About} />
+        <Route exact path="/contact" component={Contact} />
       </Switch>
       <Footer />
       </BrowserRouter>
