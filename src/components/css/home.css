@@ -155,3 +155,59 @@ p{
         border-style:ridge;
         
     }
+
+
+    .conin{
+        
+        margin-left: 17%;
+        margin-bottom: 5%;
+        padding-right: 10%;
+        border-top-style: none;
+        border-right-style: none;
+        border-left-style: none;
+        border-bottom-style: groove;
+        background-color: #F0F7EE;
+    }
+
+
+    .condes{
+        margin-left: 17%;
+        margin-bottom: 5%;
+        padding-right: 11%;
+        padding-bottom: 5%;
+        border-top-style: none;
+        border-right-style: none;
+        border-left-style: none;
+        border-bottom-style: groove;
+        background-color: #F0F7EE;
+    }
+
+    .conbut{
+        margin-left: 24%;
+        margin-bottom: 4%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 5px;
+        background-color: #87BBA2;
+    }
+
+    .conname{
+        margin-top: 5%;
+        margin-left: 17%;
+        margin-bottom: 2%;
+        padding-right: 10%;
+        border-top-style: none;
+        border-right-style: none;
+        border-left-style: none;
+        border-bottom-style: groove;
+        background-color: #F0F7EE;
+    }
+
+    .Contact{
+        margin-left: 15%;
+        margin-right: 40%;
+        margin-bottom: 10%;
+        border-bottom-style:groove;
+        border-left-style:groove;
+        border-right-style:groove;
+    }
