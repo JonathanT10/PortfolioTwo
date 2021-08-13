@@ -10,6 +10,7 @@ import Projects from './components/projects';
 import Footer from './components/footer/footer';
 import About from './components/about';
 import Contact from './components/contact';
+import DarkHome from './components/darkHome'
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/about" component={About} />
         <Route exact path="/contact" component={Contact} />
+        <Route exact path="/darkhome" component={DarkHome} />
       </Switch>
       <Footer />
       </BrowserRouter>

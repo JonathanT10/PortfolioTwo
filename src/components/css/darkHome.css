@@ -1,16 +1,16 @@
-.main{
-    background-color: #F0F7EE;
+.dmain{
+    background-color: #293132;
     border-top-style:inset;
     border-top-width: 10%;
-    border-top-color: #5D737E;
+    border-top-color: #547AA5;
 }
 
-h1{
+.dh1{
     margin-top: 5%;
     margin-left: 5%;
 }
 
-h2{
+.dh2{
     margin-top: 1%;
     margin-left:5%;
     color: #5D737E;
@@ -18,24 +18,25 @@ h2{
 }
 
 
-h4{
+.dh4{
     border-bottom-style: double;
     border-bottom-width: 2px;
-    border-bottom-color:black
+    border-bottom-color:#50D8D7
 }
 
-p{
+.dp{
     margin-left: 5%;
     margin-top: 2%;
     margin-right: 10%;
     padding-bottom: 2%;
     text-align: center;
-    border-bottom-color: #5D737E;
+    border-bottom-color: #547AA5;
     border-bottom-style: inset;
     font-size: 1.1rem;
+    color: #50D8D7;
 }
 
-.Dwig{
+.dDwig{
     display: block;
     margin-top: 3%;
     margin-left: auto;
@@ -44,27 +45,27 @@ p{
     border-style:groove;
 }
 
-.behind{
-    background-color: #F0F7EE;
+.dbehind{
+    background-color: #474044;
 }
 
-.foot{
+.dfoot{
     background-color: #87BBA2;
     margin-bottom: auto;
 }
 
-.opener{
+.dopener{
         margin-left: 22%;
         margin-top: 6%;
         margin-right: 22%;
         padding-bottom: 2%;
         text-align: center;
-        border-bottom-color: #5D737E;
+        border-bottom-color: #547AA5;
         border-bottom-style: inset;
     }
 
 
-    .Code{
+    .dCode{
         display: block;
         margin-top: 0%;
         margin-left: auto;
@@ -74,31 +75,31 @@ p{
     }
 
 
-    .Linked{
+    .dLinked{
         margin-left: 4%;
         margin-bottom: 10px;
         margin-top: 10px;
     }
 
-    .Git{
+    .dGit{
         margin-left: 1%;
         margin-bottom: 10px;
         margin-top: 10px;
     }
 
 
-    .about{
+    .dabout{
         margin-left: 13%;
         margin-top: 3%;
         margin-right: 13%;
         padding-bottom: 2%;
         text-align: center;
-        border-bottom-color: #5D737E;
+        border-bottom-color: #547AA5;
         border-bottom-style: inset;
         font-size: 1.1rem;
     }
 
-    .Me{
+    .dMe{
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -107,47 +108,42 @@ p{
         border-style: groove;
     }
 
-    .container{
+    .dcontainer{
         margin-left: 18%;
         margin-top: 3%;
         margin-right: 10%;
         padding-bottom: 1%;
     }
 
-    .card{
-        border-color: #5D737E;
+    .dcard{
+        border-color: #547AA5;
         border-style: outset;
         border-width: 2px;
         margin-right: 5%;
     }
 
 
-    .card{
+    .dcard{
         background-color: #FFF07C;
-        padding-bottom: auto;
-    }
-
-    .card-body{
-        padding-bottom: auto;
     }
 
 
-    .btn{
+    .dbtn{
         background-color: #87BBA2;
         border-style: groove;
         border-width: 2px;
-        border-color: #5D737E;
+        border-color: #547AA5;
     }
 
 
-    .projectp{
+    .dprojectp{
         text-align: left;
         border-style: none;
         font-size: 1rem;
     }
 
 
-    .projectpic{
+    .dprojectpic{
         margin-right: auto;
         margin-left: auto;
         margin-top: 6px;
