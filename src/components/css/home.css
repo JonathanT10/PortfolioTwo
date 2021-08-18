@@ -159,9 +159,9 @@ p{
 
     .conin{
         
-        margin-left: 17%;
+        margin-left: 25%;
         margin-bottom: 5%;
-        padding-right: 10%;
+        padding-right: 20%;
         border-top-style: none;
         border-right-style: none;
         border-left-style: none;
@@ -171,9 +171,9 @@ p{
 
 
     .condes{
-        margin-left: 17%;
+        margin-left: 25%;
         margin-bottom: 5%;
-        padding-right: 11%;
+        padding-right: 23%;
         padding-bottom: 5%;
         border-top-style: none;
         border-right-style: none;
@@ -183,7 +183,7 @@ p{
     }
 
     .conbut{
-        margin-left: 24%;
+        margin-left: 28%;
         margin-bottom: 4%;
         padding-top: 5px;
         padding-bottom: 5px;
@@ -192,10 +192,10 @@ p{
     }
 
     .conname{
-        margin-top: 5%;
-        margin-left: 17%;
+        margin-top: 7%;
+        margin-left: 25%;
         margin-bottom: 2%;
-        padding-right: 10%;
+        padding-right: 20%;
         border-top-style: none;
         border-right-style: none;
         border-left-style: none;
@@ -204,10 +204,17 @@ p{
     }
 
     .Contact{
-        margin-left: 15%;
-        margin-right: 40%;
-        margin-bottom: 10%;
-        border-bottom-style:groove;
-        border-left-style:groove;
-        border-right-style:groove;
+        margin-top: 5%;
+        margin-left: 20%;
+        margin-right: 55%;
+        padding-bottom: 15%;
+    }
+
+    .conb{
+        background-color: #87BBA2;
+    }
+
+    .concomp{
+        margin-left: 60%;
+        height: 20rem;
     }

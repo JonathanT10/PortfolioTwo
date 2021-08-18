@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import '../components/css/home.css'
+import Comp from '../images/comp.jpg'
 
 
 
@@ -13,9 +14,12 @@ class Contact extends Component{
 
     render() {
         return(
-            <div className="behind">
+            <div className="conb">
+                        
                 <div className="main">
+                {/* <img className="concomp" src = {Comp} width="100" alt="Computer half open"></img> */}
                     <h1>Contact</h1>
+            
                     <form>
                         <div className="Contact">
                         <div>
