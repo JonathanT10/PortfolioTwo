@@ -19,7 +19,6 @@ class Contact extends Component{
                 <div className="main">
                 {/* <img className="concomp" src = {Comp} width="100" alt="Computer half open"></img> */}
                     <h1>Contact</h1>
-            
                     <form>
                         <div className="Contact">
                         <div>
