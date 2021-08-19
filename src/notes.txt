@@ -1,3 +1,9 @@
+
+the yellow #FFF07C
+
+
+
+
 import React, { Component } from 'react';
 import '../components/css/home.css';
 import Herc from '../images/Hercules2.jpg';
