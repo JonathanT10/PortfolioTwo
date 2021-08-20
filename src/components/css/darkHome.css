@@ -6,8 +6,9 @@
 }
 
 .dh1{
-    margin-top: 5%;
+    margin-top: 4%;
     margin-left: 5%;
+    color: #F0F7EE;
 }
 
 .dh2{
@@ -15,6 +16,7 @@
     margin-left:5%;
     color: #5D737E;
     font-size: 1.7rem;
+    color: #F0F7EE;
 }
 
 
@@ -33,7 +35,7 @@
     border-bottom-color: #547AA5;
     border-bottom-style: inset;
     font-size: 1.1rem;
-    color: #50D8D7;
+    color: #F0F7EE;
 }
 
 .dDwig{
@@ -50,7 +52,7 @@
 }
 
 .dfoot{
-    background-color: #87BBA2;
+    background-color: #293132;
     margin-bottom: auto;
 }
 
@@ -62,6 +64,7 @@
         text-align: center;
         border-bottom-color: #547AA5;
         border-bottom-style: inset;
+        color: #F0F7EE;
     }
 
 
