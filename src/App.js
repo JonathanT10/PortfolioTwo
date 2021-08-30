@@ -25,7 +25,7 @@ function App() {
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/about" component={About} />
         <Route exact path="/contact" component={Contact} />
-        <Route exact path="/darkapp" component={DarkApp} />
+        {/* <Route exact path="/darkapp" component={DarkApp} /> */}
       </Switch>
       <Footer />
       </BrowserRouter>
