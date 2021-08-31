@@ -4,6 +4,7 @@ import Herc from '../images/Hercules2.jpg';
 import Clone from '../images/CloneTube.jpg';
 import Mytrail from '../images/MyTrail2.jpg';
 import TFM from '../images/TFM.jpg';
+import ReactPlayer from 'react-player';
 
 
 
@@ -23,6 +24,10 @@ class Projects extends Component{
                     <div className="row">
                         <div className="col-sm">
                             <div className="card">
+                                <ReactPlayer
+                                controls="true"
+                
+                                url="https://vimeo.com/594646534"/>
                                 <img className="projectpic" src = {TFM} height="250" width="440" alt="Screenshot from my The Founding Marketplace project."></img>
                                 <div className="card-body">
                                      <h4>The Founding Marketplace</h4>
