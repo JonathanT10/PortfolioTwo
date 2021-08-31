@@ -26,9 +26,12 @@ class Projects extends Component{
                             <div className="card">
                                 <ReactPlayer
                                 controls="true"
-                
+                                width="430"
+                                playing="ture"
+                                volume="null"
+                                muted="true"
                                 url="https://vimeo.com/594646534"/>
-                                <img className="projectpic" src = {TFM} height="250" width="440" alt="Screenshot from my The Founding Marketplace project."></img>
+                                {/* <img className="projectpic" src = {TFM} height="250" width="440" alt="Screenshot from my The Founding Marketplace project."></img> */}
                                 <div className="card-body">
                                      <h4>The Founding Marketplace</h4>
                                      <p className="projectp">The Founding Marketplace is an e-commerce application, that puts a priority on where products are made. There are Patrons that will log on to by products, and Merchants who can log on to sale products. There are several highlighted statuses available for Merchants, such as Made in America and Veteran owned business. There is also a button in each product description where Patrons can pull up a google map showing exactly where the product was made.</p>
