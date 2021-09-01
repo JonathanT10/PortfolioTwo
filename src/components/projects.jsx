@@ -26,7 +26,7 @@ class Projects extends Component{
                             <div className="card">
                                 <ReactPlayer
                                 controls="true"
-                                width="430"
+                                width="400"
                                 playing="ture"
                                 volume="null"
                                 muted="true"

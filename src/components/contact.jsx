@@ -6,6 +6,9 @@ import emailjs from 'emailjs-com';
 
 
 
+
+
+
 class Contact extends Component{
     constructor(props){
         super(props);
@@ -23,7 +26,9 @@ class Contact extends Component{
         }, (error) => {
             console.log(error.text);
         });
+        
         event.target.reset()
+        
     }
 
     render() {
@@ -46,6 +51,7 @@ class Contact extends Component{
                         </div>
                         <div>
                             <input type="submit" className="conbut" value="Send"/>
+                  
                         </div>
                         </div>
                     </form>
